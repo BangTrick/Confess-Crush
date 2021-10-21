@@ -9,7 +9,7 @@ const CONFIG = {
     title: 'tôi hay chơi ở quán net 10k/1h🥰',
     desc: 'Là người anh em tốt thì chúng ta nên bao 5h nhé :3 ',
     btnYes: 'Oke nè',
-    btnNo: 'được lun :3',
+    btnNo: 'khoong nha banj',
     question: 'Trên thế giới hơn 7 tỉ người mà tôi chỉ coi bạn là người ae duy nhất, hãy bao net tôi nhé :33',
     btnReply: 'Gửi cho bạn <3',
     reply: 'được chứ sao ko, bạn ko cần trả tiền net đâu <33333333',
