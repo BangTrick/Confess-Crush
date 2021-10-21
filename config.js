@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'hãy chọn 1 trong 2 đi',
     btnYes: ' anh em cc',
     btnNo: 'm là th anh em tốt nhất t từng gặp',
-    question: ' đúng là anh em tốt, bao net tôi nha',
+    question: ' tại sao m lại ko coi t là anh em',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'được chứ sao ko, bạn ko cần trả tiền net đâu <33333333',
+    reply: 'nói đùa thôi chứ m là ae tốt nhất t từng gặp',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi net nha.',
+    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/quangdat.tran.7330' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
